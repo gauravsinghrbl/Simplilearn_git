@@ -1,3 +1,7 @@
+<<<<<<< HEAD
  my name isn gaurav
 new version
 modified on 30th Jan
+=======
+ this is new
+>>>>>>> 3c189debb17bce2fb0bb476e31b5012559323896
